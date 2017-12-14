@@ -16,9 +16,9 @@ let github = "github.com/x0000ff"
 
 ![inline 60%](./img/logo.png)
 
-![right](http://www.universityobserver.ie/wp-content/uploads/2017/04/Nokia_3310_front_side.jpg)
+![right](./img/Nokia_3310.jpg)
 
-[^*]: Nokia 3310
+[^*]: Nokia 3310 (c) http://www.universityobserver.ie/wp-content/uploads/2017/04/Nokia_3310_front_side.jpg
 
 ---
 
