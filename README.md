@@ -9,6 +9,7 @@ How to make your code more stable and robust
 ## Presented on...
 
 - [Software Crafters Chile @ 22/11/2017](https://www.meetup.com/Software-Crafters-Chile/events/244929836/)
+- [iOS Love Meetup [Julio 2018] @ 24/07/2018](https://www.meetup.com/iOSLove/events/252920298/)
 
 ## Output
 
