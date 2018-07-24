@@ -92,7 +92,7 @@ unrecognized selector sent to instance 0x3b34bae0
 
 ---
 
-# Whatever
+# Ruby
 
 ![inline](./img/bugsnag.png)
 
@@ -104,7 +104,7 @@ unrecognized selector sent to instance 0x3b34bae0
 
 # What’s the problem?
 
-Part of JSON response 
+Part of JSON response for API "`/messages`"
 
 ![inline](./img/json.png)
 
@@ -183,16 +183,24 @@ One way to barricade for defensive programming purposes is to designate certain 
 | External | Internal |
 |---|---|
 | JSON | Model Object |
-| `ok` | true
-| `failed` | false |
-| `4.300` | 4.3 |
-| `3 USD` | `{ [Amount] Value: 3; Currency: USD }` |
+| "`ok`" | true
+| "`failed`" | false |
+| "`4.300`" | 4.3 |
+| "`3 USD`" | `{ [Amount] Value: 3; Currency: USD }` |
 
 ---
 
 # 💩
-# Garbage IN
-# Garbage OUT
+# GIGO
+
+---
+
+# 💩
+# GIGO[^*]
+## Garbage IN
+## Garbage OUT
+
+[^*]: https://en.wikipedia.org/wiki/GIGO
 
 ---
 
@@ -248,7 +256,8 @@ One way to barricade for defensive programming purposes is to designate certain 
 
 # This Presentation
 # 🙂
-# http://bit.ly/2zZkCCD
+# `http://bit.ly/`
+# `2zZkCCD`
 
 ---
 
